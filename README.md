@@ -1,6 +1,6 @@
 # PassGenie
 
-PassGannie is a website that allows users to generate secure passwords based on their preferences. 
+PassGenie is a website that allows users to generate secure passwords based on their preferences. 
 Users can customize the password length, include uppercase and lowercase letters, numbers, and symbols and also copy in their clipboard.
 The website also provides a password strength indicator to help users assess the security level of the generated password.
 
@@ -13,7 +13,7 @@ The website also provides a password strength indicator to help users assess the
 - Password strength indicator
 
 ## Usage
-- Open the PassGannie website in your web browser.
+- Open the PassGenie website in your web browser.
 - Select the desired password length using the provided slider or input field.
 - Check the corresponding checkboxes to include uppercase letters, lowercase letters, numbers, and symbols in the password.
 - Click the "Generate Password" button.
